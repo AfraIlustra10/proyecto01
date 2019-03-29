@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header{
+	align:center;
+
+}
+
+#somos{
+	font-family: duru-sans;
+	font-size:24 px;
+	color:#006;
+	text-align:justify;
+}
+
+#logo{
+	text-align:center;
+	
+	
+}
+#bienvenida{
+	font-family: brush-script-std;
+	font-size: 26px;
+	font-weight: bolder;
+	color: #F0F;
+	text-align: justify;
+	
+	
+}
+#mision{
+	font-family: duru-sanas;
+	font-size:24px;
+	font-style:italic;
+	color:#006;
+	text-align:justify;
+}
+
+#margen{
+	width:624px;
+	height:480px;
+	
+}
+#sistemas{
+	width: 600px;
+	height: 465px;
+	border-color:#006;
+	border-style: dotted;
+	font-family: lobster;
+	font-size: 24px;
+	color: #000;
+	font-weight: bolder;
+	margin: auto;
+}
+#vision{
+	font-family: duru-sanas;
+	font-size:24px;
+	font-style:italic;
+	color:#006;
+	text-align:justify;
+}
+	
+
+
+
+	

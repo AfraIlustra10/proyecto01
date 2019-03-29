@@ -1,0 +1,83 @@
+@charset "utf-8";
+#contenedor{
+	height:768px;
+	width:1024px;
+	margin:auto;
+	background-color:#F69;
+
+}
+
+header{
+	width: 1024PX;
+	height: 200px;
+	background-color: #006;
+	text-align: center;
+	
+}
+
+nav {
+	width:200px;
+	height:550px;
+	background-color:#COC3DA;
+	
+}
+
+section{
+	width:624px;
+	height:480px;
+	background:#06F;
+	margin-left:200px;
+	margin-top:-550px;
+	
+}
+
+#anuncio1{
+	width:200px;
+	height:183px;
+	background: #36C ;
+	margin-left:824px;
+	margin-top:-550px;
+	
+}
+
+#anuncio2{
+	width:200px;
+	height:183px;
+	background: #30C;
+	margin-left:824px;
+	
+	
+}
+
+#anuncio3{
+	width:200px;
+	height:184px;
+	background: #306;
+	margin-left:824px;
+	
+	
+}
+
+article{
+	width:624px;
+	height:70px;
+	background: #000;
+	margin-left:200px;
+}
+
+footer{
+	width:1024px;
+	height:100px;
+	background:#FCF;
+	text-align:center;
+	
+}
+
+#principal{
+width:624px;
+height:480px;
+background-color:#FFF
+}
+	
+
+	
